@@ -1,0 +1,46 @@
+
+<style type="text/css">
+	
+
+h2 {color:blue}
+h1 {color:purple}
+#myHeader {
+	background-color:black;
+  	color:white;
+  	padding: 40px;
+  	text-align: center;
+}
+
+
+#page {
+	background-color:gray;
+  	color:white;
+  	padding: 400px;
+ 	text-align:center;
+}
+
+#TEST {
+
+	color:white;
+	background-color:orange;
+
+}
+
+#Bounderies{
+
+	padding: 200px;
+	background-color:black;
+	color:white;
+}
+
+
+#SIZE{
+	font-size:12pt
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-color:black;
+}
+
+</style>
