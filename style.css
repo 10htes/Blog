@@ -22,7 +22,8 @@ h1 {color:purple}
 #TEST {
 
 	color:white;
-	background-color:orange;
+	background-color:black;
+	border-color:red;
 
 }
 
@@ -42,5 +43,35 @@ table, th, td {
   border: 1px solid black;
   border-color:black;
 }
+
+div.a {
+
+	width: 175px;
+	height: 100px;
+	background: lightgray;
+	transition:width 1s;
+	-webkit-transition: width 1s;
+
+
+}
+
+
+div.a:hover{
+	width: 500px;
+}
+
+
+
+#a2{
+	text-align: center;
+	font-size: 50px;
+	font-style: oblique;
+}
+
+
+
+
+
+
 
 </style>
